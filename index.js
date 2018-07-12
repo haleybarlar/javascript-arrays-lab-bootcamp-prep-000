@@ -22,5 +22,5 @@ function destructivelyRemoveFirstKitten() {
 }
 
 function appendKitten(name) {
-  var newArray = []
+  var newArray = ["Milo", "Otis", "Garfield", ]
 }
