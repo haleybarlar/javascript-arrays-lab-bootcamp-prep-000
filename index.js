@@ -39,4 +39,6 @@ function removeLastKitten() {
   return newArray
 }
 
-function 
+function removeFirstKitten() {
+  
+}
