@@ -40,5 +40,7 @@ function removeLastKitten() {
 }
 
 function removeFirstKitten() {
-  
+  var newArray = [...kittens];
+  newArray.shift();
+  return newArray
 }
